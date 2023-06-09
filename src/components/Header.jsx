@@ -1,5 +1,4 @@
 
-
 function Header({text, bgColor, textColor}) {
     return (
         <header style={{backgroundColor: bgColor, color: textColor }}>
